@@ -1,0 +1,17 @@
+.button-row{
+    align-items: center;
+    padding: 15px;
+}
+#circle {
+    width: 2em;
+    height: 2em;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    /* //background: red; */
+}
+.ElementCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
